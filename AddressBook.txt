@@ -1,0 +1,25 @@
+Welcome to Address Book.
+First Name : Vishal
+Last Name : Dute
+Address : Main road S-22, Navi Mumbai
+City : Mumbai
+State : Maharashtra
+zip : 202234
+Phone : 8698669929
+Email: dutevishal@gmail.in.comNew Person
+Name :Harshal
+Last Name :Deore
+Adress : balaji road main raod, Nashik
+City :Nashik
+State :Maharashtra
+zip :423402
+phone :63251456
+
+***********New Details***********
+Name :Harshal
+Last Name :Deore
+Adress : balaji road main raod, Nashik
+City :Nashik
+State :Maharashtra
+zip :423402
+phone :63251456
